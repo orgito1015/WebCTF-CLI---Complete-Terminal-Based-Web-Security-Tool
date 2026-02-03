@@ -669,7 +669,7 @@ async function main() {
           break;
 
         case 'storage':
-          await cli.storage();
+          await cli.showStorage();
           break;
 
         case 'console':
