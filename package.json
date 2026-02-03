@@ -20,15 +20,14 @@
   "author": "Security Engineer",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^21.6.1",
+    "axios": "^1.6.2",
     "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
     "cli-table3": "^0.6.3",
     "commander": "^11.1.0",
-    "axios": "^1.6.2",
-    "cheerio": "^1.0.0-rc.12",
-    "js-beautify": "^1.14.11"
+    "js-beautify": "^1.14.11",
+    "puppeteer": "^24.36.1"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">=14.0.0"
   }

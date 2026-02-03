@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Outputs
+*.har
+*.png
+*.jpg
+*.jpeg
+screenshots/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
